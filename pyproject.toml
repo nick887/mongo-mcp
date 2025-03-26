@@ -1,5 +1,5 @@
 [project]
-name = "mongo"
+name = "mcp-server-mongo"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -8,3 +8,6 @@ dependencies = [
     "httpx>=0.28.1",
     "mcp[cli]>=1.5.0",
 ]
+
+[project.scripts]
+mcp-server-mongo = "mcp_server_mongo:main"
