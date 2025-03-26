@@ -1,6 +1,6 @@
 # MCP Server for MongoDB
 
-A MongoDB MCP (Model-Controller-Proxy) server that supports read-only operations. This server can be safely integrated with Cursor IDE, allowing MongoDB database queries through the MCP protocol.
+A MongoDB MCP (Model-Context-Protocol) server that supports read-only operations. This server can be safely integrated with Cursor IDE, allowing MongoDB database queries through the MCP protocol.
 
 ## Features
 
